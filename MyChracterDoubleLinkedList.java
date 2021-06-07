@@ -1,4 +1,3 @@
-package lists.mychracterlinkedlsit.doublelinkedlist;
 
 import java.util.*;
 
